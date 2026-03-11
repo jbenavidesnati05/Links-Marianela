@@ -96,7 +96,7 @@ body {
     justify-content: center;
     height: 100px;
     padding: 1.1rem;
-    background: var(--img-bg, #f0faf5);
+    background: var(--img-bg, #ffffff);
 }
 
 .solucion img {
@@ -119,35 +119,35 @@ body {
 /* ── Colores por sección (paleta EPM) ── */
 
 /* UNIVERSIDAD — verde oscuro */
-.seccion-universidad .solucion        { --accent: #004d25; --img-bg: #e8f5ee; }
+.seccion-universidad .solucion        { --accent: #004d25; --img-bg: #ffffff; }
 .seccion-universidad .solucion:hover  { box-shadow: 0 10px 28px rgba(0, 77, 37, 0.2); }
 
 /* REDES SOCIALES — rosa/fucsia */
-.seccion-redes .solucion              { --accent: #e1306c; --img-bg: #fdf2f7; }
+.seccion-redes .solucion              { --accent: #e1306c; --img-bg: #ffffff; }
 .seccion-redes .solucion:hover        { box-shadow: 0 10px 28px rgba(225, 48, 108, 0.22); }
 
 /* IA — gris carbón neutro */
-.seccion-ia .solucion                 { --accent: #2d3748; --img-bg: #f7f8f9; }
+.seccion-ia .solucion                 { --accent: #2d3748; --img-bg: #ffffff; }
 .seccion-ia .solucion:hover           { box-shadow: 0 10px 28px rgba(45, 55, 72, 0.18); }
 
 /* BPM — verde medio */
-.seccion-bpm .solucion                { --accent: #007934; --img-bg: #edf7f1; }
+.seccion-bpm .solucion                { --accent: #007934; --img-bg: #ffffff; }
 .seccion-bpm .solucion:hover          { box-shadow: 0 10px 28px rgba(0, 121, 52, 0.2); }
 
 /* ESTUDIO — azul académico */
-.seccion-estudio .solucion            { --accent: #1d4ed8; --img-bg: #eff6ff; }
+.seccion-estudio .solucion            { --accent: #1d4ed8; --img-bg: #ffffff; }
 .seccion-estudio .solucion:hover      { box-shadow: 0 10px 28px rgba(29, 78, 216, 0.22); }
 
 /* TRABAJO — verde primario EPM */
-.seccion-trabajo .solucion            { --accent: #00a650; --img-bg: #e6f9ef; }
+.seccion-trabajo .solucion            { --accent: #00a650; --img-bg: #ffffff; }
 .seccion-trabajo .solucion:hover      { box-shadow: 0 10px 28px rgba(0, 166, 80, 0.2); }
 
 /* FINANZAS Y SALUD — naranja EPM */
-.seccion-finanzas .solucion           { --accent: #f47920; --img-bg: #fff4ec; }
+.seccion-finanzas .solucion           { --accent: #f47920; --img-bg: #ffffff; }
 .seccion-finanzas .solucion:hover     { box-shadow: 0 10px 28px rgba(244, 121, 32, 0.22); }
 
 /* OCIO Y VIAJES — azul complementario */
-.seccion-ocio .solucion               { --accent: #0077b6; --img-bg: #e8f4fd; }
+.seccion-ocio .solucion               { --accent: #0077b6; --img-bg: #ffffff; }
 .seccion-ocio .solucion:hover         { box-shadow: 0 10px 28px rgba(0, 119, 182, 0.2); }
 
 /* ── Responsive móvil ── */
