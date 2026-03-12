@@ -126,9 +126,9 @@ body {
 .seccion-redes .solucion              { --accent: #e1306c; --img-bg: #ffffff; }
 .seccion-redes .solucion:hover        { box-shadow: 0 10px 28px rgba(225, 48, 108, 0.22); }
 
-/* IA — gris carbón neutro */
-.seccion-ia .solucion                 { --accent: #2d3748; --img-bg: #ffffff; }
-.seccion-ia .solucion:hover           { box-shadow: 0 10px 28px rgba(45, 55, 72, 0.18); }
+/* IA — azul oscuro */
+.seccion-ia .solucion                 { --accent: #1e3a8a; --img-bg: #ffffff; }
+.seccion-ia .solucion:hover           { box-shadow: 0 10px 28px rgba(30, 58, 138, 0.2); }
 
 /* BPM — verde medio */
 .seccion-bpm .solucion                { --accent: #007934; --img-bg: #ffffff; }
